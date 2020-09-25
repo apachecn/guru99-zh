@@ -58,12 +58,15 @@
     }
     
     window.$docsify = {
-      loadSidebar: 'sidebar.md',
+      loadSidebar: 'SUMMARY.md',
       name: 'Guru99 中文系列教程',
       auto2top: true,
       themeColor: '#2cbaff',
       repo: 'apachecn/guru99-zh',
       plugins: [window.docsPlugin],
+      alias: {
+        '/.*/SUMMARY.md': '/SUMMARY.md',
+      },
       search: {
         paths: 'auto',
         placeholder: '搜索',

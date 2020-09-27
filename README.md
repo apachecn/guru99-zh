@@ -11,6 +11,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install guru99-zh
+guru99-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```

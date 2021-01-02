@@ -4,7 +4,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 傻瓜都能写计算机能看懂的代码。好程序员写人能看懂的代码。——马丁·福勒
 
 * [在线阅读](https://guru99.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/guru99-zh/)
